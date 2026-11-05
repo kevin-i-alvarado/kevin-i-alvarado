@@ -9,7 +9,7 @@ Over the Summer of 2026 I also became a L'SPACE Alum, helping propose a NASA mis
 
 My topics of research include: astrodynamics, trajectory design optimization, navigation & tracking, space domain awareness, mission architecture, and spacecraft systems.
 
-Additional information Below:
+Additional information Here:
 Rensselaer Polytechnic Institute: https://meritpages.com/alvark
 
 Current Lab (ASCL) at Rensselaer Polytechnic Institute:
